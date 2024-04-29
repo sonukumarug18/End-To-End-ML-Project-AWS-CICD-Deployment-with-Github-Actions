@@ -1,0 +1,24 @@
+COLUMNS :
+   Cement             :   float64
+   Blast Furnace Slag  : float64
+   Fly Ash             : float64
+   Water                : float64
+   Superplasticizer    : float64
+   Coarse Aggregate     : float64
+   Fine Aggregate       :  float64
+   Age                  :  int64  
+   Strength             :  float64
+
+
+
+TARGET_COLUMN:
+  name: Strength
+
+
+
+
+
+
+
+
+
